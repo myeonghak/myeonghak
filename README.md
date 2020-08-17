@@ -19,7 +19,7 @@
   - :gift: Recommender Systems
   - :clipboard: Natural Language Processing
   - :bulb: Deep Learning
-  - :speech_balloon: XAI(eXplanable AI)
+  - :speech_balloon: XAI(eXplainable AI)
   - :bar_chart: Visualization
 
  <div align=center>
