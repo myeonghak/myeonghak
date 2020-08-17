@@ -1,6 +1,3 @@
-this template from https://github.com/EricSeokgon many Thanks!
---------------------------------------------------------------
-
 <div align=center>
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/myeonghak)](https://hits.seeyoufarm.com)
@@ -30,3 +27,5 @@ this template from https://github.com/EricSeokgon many Thanks!
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/myeonghak-lee-3a070013b/)](https://www.linkedin.com/in/myeonghak-lee-3a070013b/)   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/lee.myunghack)](https://www.facebook.com/lee.myunghack)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nilsine11202@gmail.com)](mailto:nilsine11202@gmail.com)
  </div>
+
+##### this template is from https://github.com/EricSeokgon. many Thanks!
