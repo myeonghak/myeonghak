@@ -27,5 +27,3 @@
  
 
 </br>
-
-##### this template is from https://github.com/EricSeokgon. many Thanks!
