@@ -6,9 +6,6 @@
    <a href="https://blog.naver.com/nilsine11202/">
     <img src="https://badgen.net/badge/icon/myeonghak BLOG ?icon=https://caple-static.s3.ap-northeast-2.amazonaws.com/cobalt-badge.svg&label&color=5B69C3&labelColor=414C9A" />
 
-
- [![Mrchypark's github stats](https://github-readme-stats.vercel.app/api?username=myeonghak&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
   ### :man_technologist: Machine Learning Engineer in Marketing field
   - I am Machine Learning Engineer mainly using python.
   - Interested in solving problems in marketing area such as Recommendations, Sentiment Analysis, Churn Analysis, Demand Prediction, etc.
