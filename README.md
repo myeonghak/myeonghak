@@ -3,7 +3,7 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/myeonghak)](https://hits.seeyoufarm.com)
 
  </div>
-   <a href="https://blog.naver.com/nilsine11202/">
+   <a href="https://myeonghak.github.io/">
     <img src="https://badgen.net/badge/icon/myeonghak BLOG ?icon=https://caple-static.s3.ap-northeast-2.amazonaws.com/cobalt-badge.svg&label&color=5B69C3&labelColor=414C9A" />
 
   ### :man_technologist: Machine Learning Engineer in Marketing field
