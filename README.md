@@ -12,8 +12,9 @@
   - Always eager to have deeper understanding on Customers.
 
   ### Interests
-  - :chart_with_upwards_trend: Marketing Optimization
   - :gift: Recommender Systems
+  - :globe_with_meridians: Graph Theory
+  - :chart_with_upwards_trend: Marketing Optimization
   - :clipboard: Natural Language Processing
   - :bulb: Deep Learning
   - :speech_balloon: XAI(eXplainable AI)
