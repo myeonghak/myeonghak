@@ -13,7 +13,7 @@
 
   ### Interests
   - :gift: Recommender Systems
-  - :globe_with_meridians: Graph Theory
+  - :globe_with_meridians: Graph Neural Network
   - :chart_with_upwards_trend: Marketing Optimization
   - :clipboard: Natural Language Processing
   - :bulb: Deep Learning
