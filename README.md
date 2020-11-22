@@ -9,7 +9,7 @@
   ### :man_technologist: Machine Learning Engineer in Marketing field
   - I am Machine Learning Engineer mainly using python.
   - Interested in solving problems in marketing area such as Recommendations, Sentiment Analysis, Churn Analysis, Demand Prediction, etc.
-  - Always eager to have deeper understanding on Customers.
+  - Always eager to have deeper understanding on customers.
 
   ### Interests
   - :gift: Recommender Systems
