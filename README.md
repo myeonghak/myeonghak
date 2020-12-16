@@ -26,5 +26,4 @@
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nilsine11202@gmail.com)](mailto:nilsine11202@gmail.com)
  </div>
  
-
 </br>
