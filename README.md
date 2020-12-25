@@ -6,9 +6,9 @@
    <a href="https://myeonghak.github.io/">
     <img src="https://badgen.net/badge/icon/myeonghak BLOG ?icon=https://caple-static.s3.ap-northeast-2.amazonaws.com/cobalt-badge.svg&label&color=5B69C3&labelColor=414C9A" />
 
-  ### :man_technologist: Machine Learning Engineer in Marketing field
+  ### :man_technologist: Machine Learning Engineer who solves business problems
   - I am Machine Learning Engineer mainly using python.
-  - Interested in solving problems in marketing area such as Recommendations, Sentiment Analysis, Churn Analysis, Demand Prediction, etc.
+  - Interested in solving problems in business/marketing area such as Recommendations, Sentiment Analysis, Churn Analysis, Demand Prediction, etc.
   - Always eager to have deeper understanding on customers.
 
   ### Interests
