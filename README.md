@@ -8,7 +8,7 @@
 
   ### :man_technologist: Machine Learning Engineer who solves business problems
   - I am Machine Learning Engineer mainly using python.
-  - Interested in solving problems in business/marketing area such as Recommendations, Sentiment Analysis, Churn Analysis, Demand Prediction, etc.
+  - Interested in solving problems in business/marketing area such as Recommendations, Sentiment Analysis, Text Classification, Demand Prediction, etc.
   - Always eager to have deeper understanding on customers.
 
   ### Interests
