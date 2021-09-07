@@ -12,7 +12,7 @@
   - Always eager to have deeper understanding on customers.
 
   ### Interests
-  - :gift:  Recommender Systems
+  - :gift:<br/><br/>Recommender Systems
   - :globe_with_meridians:  Graph Neural Networks
   - :hammer_and_wrench:  MLOps
   - :clipboard:  Natural Language Processing
