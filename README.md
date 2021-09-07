@@ -12,13 +12,13 @@
   - Always eager to have deeper understanding on customers.
 
   ### Interests
-  - :gift: Recommender Systems
-  - :globe_with_meridians: Graph Neural Networks
-  - :hammer_and_wrench: MLOps
-  - :clipboard: Natural Language Processing
-  - :speech_balloon: XAI(eXplainable AI)
-  - :chart_with_upwards_trend: Marketing Optimization
-  - :bar_chart: Visualization
+  - :gift:  Recommender Systems
+  - :globe_with_meridians:  Graph Neural Networks
+  - :hammer_and_wrench:  MLOps
+  - :clipboard:  Natural Language Processing
+  - :speech_balloon:  XAI(eXplainable AI)
+  - :chart_with_upwards_trend:  Marketing Optimization
+  - :bar_chart:  Visualization
   
 
  <div align=center>
