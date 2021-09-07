@@ -14,11 +14,12 @@
   ### Interests
   - :gift: Recommender Systems
   - :globe_with_meridians: Graph Neural Networks
-  - :chart_with_upwards_trend: Marketing Optimization
+  - :hammer_and_wrench: MLOps
   - :clipboard: Natural Language Processing
-  - :bulb: Deep Learning
   - :speech_balloon: XAI(eXplainable AI)
+  - :chart_with_upwards_trend: Marketing Optimization
   - :bar_chart: Visualization
+  
 
  <div align=center>
 
