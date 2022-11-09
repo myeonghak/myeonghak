@@ -9,7 +9,8 @@
   ### :man_technologist: Machine Learning Engineer who solves marketing problems
   - I am a Machine Learning Engineer mainly using python.
   - Interested in solving problems in business/marketing area such as Recommendations, Sentiment Analysis/Text Classification, Information Retrieval, Demand Prediction, etc.
-  - Always eager to have deeper understanding on customers.
+  - Always eager to have deeper understanding on customers.  
+  - Currently Working on a GNN based Recommender System using credit card transaction data from milions of customers.  
 
   ### Interests
   - :gift:&nbsp;Recommender Systems
