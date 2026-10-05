@@ -1,6 +1,8 @@
 # Myeonghak Lee
 
-**AI/Forward-Deployed Engineer @ Microsoft**. I sit between what GenAI can do and what an enterprise will actually ship, closing that gap for customers working on their hardest, most frontier AI problems.
+**AI/Forward-Deployed Engineer @ Microsoft** 
+
+I sit between what GenAI can do and what an enterprise will actually ship, closing that gap for customers working on their hardest, most frontier AI problems.
 
 Before this, main engineer behind an AI outbound voice-call system at **Toss** that outperforms human sales agents: the first AI voice agent in Korea to do so, running at 100K calls/day. Also built production RAG + LLM fine-tuning systems at **Hyundai Card**.
 
